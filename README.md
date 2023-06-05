@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 ## About me
-Hey there! My name is Niko, and I am eager to learn more on programming every day. Recently graduated from 12 weeks intense Full Stack bootcamp, and now working on own projects.     
+Hey there! My name is Niko, and I am eager to learn more on programming every day. Recently graduated from 12 week intense Full Stack bootcamp, and now working on own projects.     
 Heres link to my LinkedIn as well.    
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/niko-rappe-883001263/)
 
