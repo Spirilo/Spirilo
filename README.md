@@ -1,20 +1,5 @@
 ### Hi there 👋
 
-<!--
-**Spirilo/Spirilo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 ## About me
 Hey there! My name is Niko, and I am eager to learn more on programming every day. Recently graduated from 12 week intense Full Stack bootcamp, and now working on own projects.     
 Heres link to my LinkedIn as well.    
@@ -40,5 +25,6 @@ Unfortunately the database was on cloud, so it would be quite hard to run it loc
 [TaskRabbit](https://github.com/Spirilo/task-rabbit)      
 <img width="400px" height="400px" alt="Screenshot 2023-06-06 093833" src="https://github.com/Spirilo/Spirilo/assets/101670946/b1052b39-fa1e-41ad-aa6f-9d90402a83bd">
 
-Currently working on userbased Library app. Will update here when I make the repo public.
+Currently working on userbased Library app. Work is still in progress, so features added daily. You can check the code from here:    
+[Libraryapp](https://github.com/Spirilo/library-app)
 
