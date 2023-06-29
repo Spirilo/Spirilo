@@ -25,6 +25,8 @@ Unfortunately the database was on cloud, so it would be quite hard to run it loc
 [TaskRabbit](https://github.com/Spirilo/task-rabbit)      
 <img width="400px" height="400px" alt="Screenshot 2023-06-06 093833" src="https://github.com/Spirilo/Spirilo/assets/101670946/b1052b39-fa1e-41ad-aa6f-9d90402a83bd">
 
-Currently working on userbased Library app. Work is still in progress, so features added daily. You can check the code from here:    
-[Libraryapp](https://github.com/Spirilo/library-app)
+Simple Library app made with Java(Spring boot, Spring security), React and MySQL. Repo can be found here:    
+[Libraryapp](https://github.com/Spirilo/library-app)       
+
+Currently working on Full Stack open course from University of Helsinki.
 
