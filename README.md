@@ -5,12 +5,21 @@ Hey there! My name is Niko, and I am eager to learn more on programming every da
 Heres link to my LinkedIn as well.    
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/niko-rappe-883001263/)
 
-## Technologies
-Some of the technologies that I have worked with so far.       
-
-<img src="https://is.mediadelivery.fi/img/468/bccec86c243846a3b23e636a05d9110b.jpg" width="100px" height="100px"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/800px-JavaScript-logo.png" width="100px" height="100px">
-<img src="https://cdn.iconscout.com/icon/free/png-256/free-react-1-282599.png?f=webp" width="100px" height="100px"><img src="https://img.favpng.com/6/2/11/redux-react-javascript-freecodecamp-npm-png-favpng-6F2x50visKuC0trBQ0952Cm1E_t.jpg" width="100px" height="100px">
-<img src="https://www.inovex.de/wp-content/uploads/Amazon_Web_Services_Logo-kl.png" width="100px" height="100px"><img src="https://upload.wikimedia.org/wikipedia/fi/thumb/e/e0/MySQL-n_logo.svg/1200px-MySQL-n_logo.svg.png" width="100px" height="100px">
+## Languages and tools
+    
+<div>
+  <img src="https://is.mediadelivery.fi/img/468/bccec86c243846a3b23e636a05d9110b.jpg" width="50px" height="50px">
+  <img src="https://cdn4.iconfinder.com/data/icons/logos-3/454/nodejs-new-pantone-white-512.png" width="50px" height="50px">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/800px-JavaScript-logo.png" width="50px">
+  <img src="https://w7.pngwing.com/pngs/915/519/png-transparent-typescript-hd-logo-thumbnail.png" width="50px" height="50px">
+  <img src="https://cdn.iconscout.com/icon/free/png-256/free-react-1-282599.png?f=webp" width="50px">
+  <img src="https://img.favpng.com/6/2/11/redux-react-javascript-freecodecamp-npm-png-favpng-6F2x50visKuC0trBQ0952Cm1E_t.jpg" width="50px" height="50px">
+  <img src="https://www.inovex.de/wp-content/uploads/Amazon_Web_Services_Logo-kl.png" width="50px" height="50px">
+  <img src="https://upload.wikimedia.org/wikipedia/fi/thumb/e/e0/MySQL-n_logo.svg/1200px-MySQL-n_logo.svg.png" width="50px" height="50px">
+  <img src="https://images.g2crowd.com/uploads/product/image/large_detail/large_detail_251be2af3ae607c45c14e816eaa1cf41/postgresql.png" width="50px" height="50px">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/GraphQL_Logo.svg/1200px-GraphQL_Logo.svg.png" width="50px" height="50px">
+  <img src="https://www.devopsmadness.com/images/dockerventure_1/docker_logo.png" width="50px" height="50px">
+</div>
 
 ## Projects
 ### Quiz app
