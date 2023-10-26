@@ -39,5 +39,6 @@ Unfortunately the database was on cloud, so it would be quite hard to run it loc
 Simple Library app made with Java(Spring boot, Spring security), React and MySQL. Repo can be found here:    
 [Libraryapp](https://github.com/Spirilo/library-app)       
 
-Currently working on Training app.
+### Training app
+[TrainingApp](https://github.com/Spirilo/training-app)
 
