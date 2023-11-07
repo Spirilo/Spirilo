@@ -40,7 +40,7 @@ Simple Library app made with Java(Spring boot, Spring security), React and MySQL
 [Libraryapp](https://github.com/Spirilo/library-app)       
 
 ### Training app
-Training app to add your trainings and joining to groups. This was a sandbox project to practice skills on Node.js, ReactJS, PostgreSQL, CSS and Docker. Repo link below.
-[TrainingApp](https://github.com/Spirilo/training-app)
+Training app to add your trainings and joining to groups. This was a sandbox project to practice skills on Node.js, ReactJS, PostgreSQL, CSS and Docker. Repo link below.        
+[TrainingApp](https://github.com/Spirilo/training-app) 
 
 Currently working on Recipes app with Java
