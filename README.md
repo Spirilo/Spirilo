@@ -22,15 +22,9 @@ Heres link to my LinkedIn as well.
 </div>
 
 ## Projects
-### Quiz app
-Heres one of the projects I made with a group of three. Userbased Quiz app, that let you choose out of three categories to compete with others. Scoreboard is also visible after every quess. Admin user could also manage other users.      
-Technologies used: Java(Spring boot), MySQL, React.js.      
-Click on the images to see the UI better.
-
-<img width="50px" height="50px" alt="1" src="https://github.com/Spirilo/Spirilo/assets/101670946/e0746af2-15d3-43d7-9c20-59e9028ee7c3"><img width="50px" height="50px" alt="2" src="https://github.com/Spirilo/Spirilo/assets/101670946/e517b0ab-c6ef-479e-8722-6d00c3fd376c"><img width="50px" height="50px" alt="3" src="https://github.com/Spirilo/Spirilo/assets/101670946/6e72907d-771d-44b9-b6f0-6be9094eff29"><img width="50px" height="50px" alt="4" src="https://github.com/Spirilo/Spirilo/assets/101670946/9b40d83b-a60d-4812-8c70-4cbea1dbf405"><img width="50px" height="50px" alt="5" src="https://github.com/Spirilo/Spirilo/assets/101670946/f434ac6f-5abf-4e91-94a9-ca74709129d3">
 
 ### Task Rabbit
-Heres another project I made with a group of four. Userbased app, where you could make tasks for other users to take on complete. There is also a ranking system, so other users could give stars depenging how you succeed with the tasks.      
+Heres a project I made with a group of four. Userbased app, where you could make tasks for other users to take on complete. There is also a ranking system, so other users could give stars depenging how you succeed with the tasks.      
 Technologies used: Java(Spring boot), AWS(RDS), MySQL, React.js, Redux, Bootstrap, Mui       
 Unfortunately the database was on cloud, so it would be quite hard to run it locally. But if you want to take a look of the code, repo can be found here:     
 [TaskRabbit](https://github.com/Spirilo/task-rabbit)      
@@ -43,4 +37,4 @@ Simple Library app made with Java(Spring boot, Spring security), React and MySQL
 Training app to add your trainings and joining to groups. This was a sandbox project to practice skills on Node.js, ReactJS, PostgreSQL, CSS and Docker. Repo link below.        
 [TrainingApp](https://github.com/Spirilo/training-app) 
 
-Currently working on Project management app with Typescript
+Currently working on Project management app.
